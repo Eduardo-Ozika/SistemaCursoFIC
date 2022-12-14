@@ -1,0 +1,6 @@
+com\eduardoozika\entity\Curso.class
+com\eduardoozika\entity\Estudante.class
+com\eduardoozika\entity\estudantesMatriculados.class
+com\eduardoozika\Main.class
+com\eduardoozika\entity\Celular.class
+com\eduardoozika\entity\turmaCurso.class

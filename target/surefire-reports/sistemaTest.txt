@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: sistemaTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in sistemaTest
+DeveriaCadastrarEstudante  Time elapsed: 0 s  <<< ERROR!
+java.lang.IllegalArgumentException: Obrigatoriedade:todos os valores devem ser informados
+	at sistemaTest.DeveriaCadastrarEstudante(sistemaTest.java:21)
+
